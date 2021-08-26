@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: CDOs
-description: Computer-Designed Organisms
+title: KROs
+description: K R Organisms
 plugins:
   - jekyll-relative-links
 relative_links:
