@@ -2,12 +2,12 @@
 
 ### **Reproduce our work.**
 
-The source code necessary for re-evolving the CDO blueprints reported in our paper can be found at:
-[github.com/skriegman/reconfigurable_organisms](https://github.com/skriegman/reconfigurable_organisms)
+The source code necessary for re-evolving the .... reported in our paper can be found at:
+[???]()
 
-The instructions for actually building an organism from a CDO blueprint are also entirely open-source in the form of our [PNAS paper](https://www.pnas.org/content/117/4/1853) and its [supplementary materials](https://www.pnas.org/highwire/filestream/906738/field_highwire_adjunct_files/0/pnas.1910837117.sapp.pdf).
+The instructions for actually building .... are also entirely open-source in the form of our [??? paper]() and its [supplementary materials]().
 
-The source code and build instructions are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
+Source code and build instructions are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
 ### **Start here:**
@@ -17,12 +17,9 @@ The first step links to a Windows installation of VoxCAD.
 If you do not have Windows, you can instead download a GUI for [Mac](https://cdorgs.github.io/code#mac) and [Linux](https://cdorgs.github.io/code#linux), and then continue with step 2 of the procedure.
 
 
-### **A new CDO simulator.**
+### **The simulation.**
 
-We recently developed new software to simulate xenobots which is much more powerful. 
-<br>
-
-The software has two parts:
+The xenobot software has two parts:
 <br>
 
 <a href="#viz"><i class="fas fa-desktop icon" title="viz"></i></a>
