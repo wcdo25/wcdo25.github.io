@@ -2,4 +2,4 @@
 
 ???
 
-### [Email the team](mailto:sam.kriegman@wyss.harvard.edu,Douglas.Blackiston@tufts.edu,michael.levin@tufts.edu,jbongard@uvm.edu)
+### [Email the team](mailto:Sam.Kriegman@wyss.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,jbongard@uvm.edu)
