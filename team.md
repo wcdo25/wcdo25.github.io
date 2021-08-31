@@ -14,7 +14,7 @@ co-developed the open-source soft robot kit [voxcraft](https://voxcraft.github.i
 and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, artificial intelligence, and synthetic biology.
 <br><br><br>
 
-[<img src="https://cdorgs.github.io/img/doug.jpg" width="25%">](https://douglas-blackiston.weebly.com/)
+[<img src="https://cdorgs.github.io/img/doug.jpg" width="25%">](https://douglas-blackiston.weebly.com/)<br>
 <a href="mailto:Douglas.Blackiston@tufts.edu?&cc=sam.kriegman@wyss.harvard.edu;Michael.Levin@tufts.edu;jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email doug, cc: sam, mike, josh"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DougBlackiston" target="_blank"><i class="fab fa-twitter icon" title="tweet doug"></i></a>
