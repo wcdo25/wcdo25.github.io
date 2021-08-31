@@ -31,7 +31,7 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/josh.jpg" width="25%">](https://jbongard.github.io/)<br>
-<a href="mailto:jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email josh"></i></a>
+<a href="mailto:josh.bongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email josh"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DoctorJosh" target="_blank"><i class="fab fa-twitter icon" title="tweet josh"></i></a>
 
