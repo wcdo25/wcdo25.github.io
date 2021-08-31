@@ -22,7 +22,7 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 **Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 <br><br><br>
 
-<img src="https://cdorgs.github.io/img/mike.jpg" width="40%">
+[<img src="https://cdorgs.github.io/img/mike.jpg" width="40%">](https://ase.tufts.edu/biology/labs/levin/)<br>
 <a href="mailto:michael.levin@tufts.edu?&cc=sam.kriegman@wyss.harvard.edu?&cc=Douglas.Blackiston@tufts.edu?&cc=jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email mike, cc: sam, doug, josh"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/drmichaellevin" target="_blank"><i class="fab fa-twitter icon" title="tweet mike"></i></a>
@@ -30,7 +30,7 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 **Michael Levin** is the Vannevar Bush Professor of Biology at Tufts University, and the director of the [Allen Discovery Center at Tufts](https://allencenter.tufts.edu/). His work uses developmental biophysics, cognitive science, and computational modeling approaches to understand tissue plasticity, especially focused on bioelectrical information processing in non-neural cell networks. Working at the intersection of regenerative biology and basal cognition, his group seeks to develop new applications in birth defects, regeneration, cancer, and synthetic morphology by learning how cell collectives make morphological decisions and cracking that code to motivate them toward desired anatomical outcomes.
 <br><br><br>
 
-<img src="https://cdorgs.github.io/img/josh.jpg" width="25%">
+[<img src="https://cdorgs.github.io/img/josh.jpg" width="25%">](https://jbongard.github.io/)<br>
 <a href="mailto:jbongard@uvm.edu?&cc=sam.kriegman@wyss.harvard.edu?&cc=Douglas.Blackiston@tufts.edu?&cc=Michael.Levin@tufts.edu" target="_blank"><i class="far fa-envelope icon" title="email josh, cc: sam, doug, mike"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DoctorJosh" target="_blank"><i class="fab fa-twitter icon" title="tweet josh"></i></a>
