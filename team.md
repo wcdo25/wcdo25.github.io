@@ -1,7 +1,7 @@
 ## Team
 
 [<img src="https://cdorgs.github.io/img/sam.jpg" width="25%">](https://skriegman.github.io)<br>
-<a href="mailto:sam.kriegman@wyss.harvard.edu?&cc=Douglas.Blackiston@tufts.edu?&cc=Michael.Levin@tufts.edu?&cc=jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email sam, cc: doug, mike, josh"></i></a>
+<a href="mailto:sam.kriegman@wyss.harvard.edu?&cc=Douglas.Blackiston@tufts.edu;Michael.Levin@tufts.edu;jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email sam, cc: doug, mike, josh"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
@@ -15,7 +15,7 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/doug.jpg" width="25%">](https://douglas-blackiston.weebly.com/)
-<a href="mailto:Douglas.Blackiston@tufts.edu?&cc=sam.kriegman@wyss.harvard.edu?&cc=Michael.Levin@tufts.edu?&cc=jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email doug, cc: sam, mike, josh"></i></a>
+<a href="mailto:Douglas.Blackiston@tufts.edu?&cc=sam.kriegman@wyss.harvard.edu;Michael.Levin@tufts.edu;jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email doug, cc: sam, mike, josh"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DougBlackiston" target="_blank"><i class="fab fa-twitter icon" title="tweet doug"></i></a>
 
@@ -23,7 +23,7 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/mike.jpg" width="40%">](https://ase.tufts.edu/biology/labs/levin/)<br>
-<a href="mailto:michael.levin@tufts.edu?&cc=sam.kriegman@wyss.harvard.edu?&cc=Douglas.Blackiston@tufts.edu?&cc=jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email mike, cc: sam, doug, josh"></i></a>
+<a href="mailto:michael.levin@tufts.edu;sam.kriegman@wyss.harvard.edu;Douglas.Blackiston@tufts.edu;jbongard@uvm.edu" target="_blank"><i class="far fa-envelope icon" title="email mike, cc: sam, doug, josh"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/drmichaellevin" target="_blank"><i class="fab fa-twitter icon" title="tweet mike"></i></a>
 
@@ -31,7 +31,7 @@ and has co-authored numerous peer-reviewed [publications](https://scholar.google
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/josh.jpg" width="25%">](https://jbongard.github.io/)<br>
-<a href="mailto:jbongard@uvm.edu?&cc=sam.kriegman@wyss.harvard.edu?&cc=Douglas.Blackiston@tufts.edu?&cc=Michael.Levin@tufts.edu" target="_blank"><i class="far fa-envelope icon" title="email josh, cc: sam, doug, mike"></i></a>
+<a href="mailto:jbongard@uvm.edu;sam.kriegman@wyss.harvard.edu;Douglas.Blackiston@tufts.edu;Michael.Levin@tufts.edu" target="_blank"><i class="far fa-envelope icon" title="email josh, cc: sam, doug, mike"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DoctorJosh" target="_blank"><i class="fab fa-twitter icon" title="tweet josh"></i></a>
 
