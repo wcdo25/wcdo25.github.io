@@ -7,7 +7,10 @@
 
 **Sam Kriegman**
 is a Postdoctoral Fellow at Harvard University (Wyss Inst.) and Tufts University (Allen Discovery Center).
-His research explores evolutionary robotics: the _automatic_ and continuous creation of entirely new kinds of machines.
+His research explores evolutionary robotics,
+which draws inspiration from the origin and subsequent evolution of life,
+and applies the underlying mechanisms of self-organization, varation and selection 
+to the creation of novel autonomous machines.
 These machines can in some cases perform useful work, or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think.
 Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/),
 co-developed the open-source soft robot kit [voxcraft](https://voxcraft.github.io/),
