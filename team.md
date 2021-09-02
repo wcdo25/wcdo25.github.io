@@ -12,9 +12,6 @@ which draws inspiration from the origin and subsequent evolution of life,
 and applies the underlying mechanisms of self-organization, variation and selection 
 to the creation of novel autonomous machines.
 These machines can in some cases perform useful work, or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think.
-Sam co-organizes the [Virtual Creatures Competition](https://virtualcreatures.github.io/),
-co-developed the open-source soft robot kit [voxcraft](https://voxcraft.github.io/),
-and has co-authored numerous peer-reviewed [publications](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) spanning robotics, artificial intelligence, and synthetic biology.
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/doug.jpg" width="25%">](https://douglas-blackiston.weebly.com/)<br>
