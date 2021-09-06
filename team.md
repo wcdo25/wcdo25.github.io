@@ -19,7 +19,9 @@ These machines can in some cases perform useful work, or they may be used as sci
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DougBlackiston" target="_blank"><i class="fab fa-twitter icon" title="tweet doug"></i></a>
 
-**Douglas Blackiston** is a Research Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding brain-body plasticity --- the response of cell populations in vivo to alterations in patterning, local environment, and signaling from neighboring tissues.  His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
+**Douglas Blackiston** is a Senior Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding tissue plasticity --- the response of cell populations to alterations in patterning, local environment, and signaling from neighboring tissues.
+His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
+
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/mike.jpg" width="40%">](https://ase.tufts.edu/biology/labs/levin/)<br>
@@ -36,7 +38,7 @@ These machines can in some cases perform useful work, or they may be used as sci
 <a href="https://twitter.com/DoctorJosh" target="_blank"><i class="fab fa-twitter icon" title="tweet josh"></i></a>
 
 **Josh Bongard** 
-is the Veinott Professor of Computer Science at the University of Vermont and director of the [Morphology, Evolution & Cognition Laboratory](https://www.meclab.org/). His work involves automated design and manufacture of soft-, evolved-, and crowdsourced robots, as well as computer-designed organisms. A PECASE, TR35, and Cozzarelli Prize recipient, he has received funding from NSF, NASA, DARPA, ARO and the Sloan Foundation. He is the co-author of the book How The Body Shapes the Way we Think, the instructor of a reddit-based evolutionary robotics [MOOC](https://www.reddit.com/r/ludobots/wiki/index#welcome), and director of the robotics outreach program [Twitch Plays Robotics](https://www.twitch.tv/twitchplaysrobotics).
+is the Veinott Professor of Computer Science at the University of Vermont and director of the [Morphology, Evolution & Cognition Laboratory](https://www.meclab.org/). His work involves automated design and manufacture of soft-, evolved-, and crowdsourced robots, as well as computer-designed organisms. A PECASE, TR35, and Cozzarelli Prize recipient, he has received funding from NSF, NASA, DARPA, ARO and the Sloan Foundation. He is the co-author of the book [How The Body Shapes the Way we Think](https://mitpress.mit.edu/books/how-body-shapes-way-we-think), the instructor of a reddit-based [evolutionary robotics MOOC](https://www.reddit.com/r/ludobots/wiki/index#welcome), and director of the robotics outreach program [Twitch Plays Robotics](https://www.twitch.tv/twitchplaysrobotics).
 <br><br><br>
 
 <img src="https://cdorgs.github.io/img/TheDreamTeam.jpg">
