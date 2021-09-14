@@ -6,12 +6,13 @@
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
 **Sam Kriegman**
-is a Postdoctoral Fellow at Harvard University (Wyss Inst.) and Tufts University (Allen Discovery Center).
-His research explores evolutionary robotics,
-which draws inspiration from the origin and subsequent evolution of life,
-and applies the underlying mechanisms of self-organization and natural selection 
-to the creation of novel autonomous machines.
-These machines can in some cases perform useful work, or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think.
+is a Postdoctoral Fellow at Harvard University and Tufts University.
+His research draws inspiration from the origin and subsequent evolution of life, 
+and applies the underlying mechanisms of self-organization and natural selection ("survival of the fittest") 
+to the creation of novel autonomous machines: 
+robots, in all manner of shapes and sizes, that act on their own, without remote control.
+These machines can in some cases perform useful work, 
+or they may be used as scientific tools to understand how animals evolve, grow, move, sense, and think. 
 <br><br><br>
 
 [<img src="https://cdorgs.github.io/img/doug.jpg" width="25%">](https://douglas-blackiston.weebly.com/)<br>
