@@ -6,7 +6,7 @@
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
 
 **Sam Kriegman**
-is a Postdoctoral Fellow with a joint appointment at Harvard University and Tufts University.
+is a computer scientist with a joint postdoctoral appointment at the Wyss Institute at Harvard and the Allen Discovery Center at Tufts.
 His [research](https://scholar.google.com/citations?user=DCIwaLwAAAAJ) draws inspiration from the origin and subsequent evolution of life, 
 and applies the underlying mechanisms of self-organization and natural selection 
 to the creation of novel autonomous machines.
