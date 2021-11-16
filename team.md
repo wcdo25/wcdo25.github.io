@@ -1,6 +1,6 @@
 ## Team
 
-[<img src="https://cdorgs.github.io/img/sam.jpg" width="25%">](https://skriegman.github.io)<br>
+[<img src="https://krorgs.github.io/img/sam.jpeg" width="25%">](https://skriegman.github.io)<br>
 <a href="mailto:sam.kriegman@wyss.harvard.edu" target="_blank"><i class="far fa-envelope icon" title="email sam"></i></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/kriegmerica" target="_blank"><i class="fab fa-twitter icon" title="tweet sam"></i></a>
