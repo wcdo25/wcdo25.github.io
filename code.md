@@ -4,6 +4,7 @@
 
 The source code necessary for evolving the KROs reported in our paper can be found at:
 [???]().
+<!-- https://github.com/skriegman/kinematically_replicating_organisms -->
 
 The instructions for actually building KROs are also entirely open-source in the form of our [??? paper]() and its [supplementary materials]().
 
