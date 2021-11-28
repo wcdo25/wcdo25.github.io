@@ -177,7 +177,7 @@ Another evolved terrain.<br>
 
 
 ![image](https://krorgs.github.io/gifs/30_o99_9_33_trimmed_fast.gif) <br>
-In a cluttered environment (black “boulders”), the wild type progenitors (spheroids) cannot move enough to self replicate. <br>
+In a cluttered environment (black "boulders"), the wild type progenitors (spheroids) cannot move enough to self replicate. <br>
 [youtube](https://youtu.be/v_RTSzbdmj4 ) |
 [download](https://drive.google.com/file/d/1wzIh_Jn3Y5BP_62p6Ar8qlTQNVfOs_91/view )
 <br><br>
