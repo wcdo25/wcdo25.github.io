@@ -15,27 +15,27 @@ A group of AI-designed organisms in a petri dish over a dollar bill for scale.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston2.jpg) <br>
-A dozen AI-designed Kinematically Replicating Organisms (KROs; beige) beside loose stem cells (white).
+A dozen AI-designed organisms (C-shaped; beige) beside loose stem cells (white).
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston3.jpg) <br>
-AI-designed (C-shaped) organisms push loose stem cells (white) into piles as they move through their environment.
+AI-designed organisms (C-shaped; beige) push loose stem cells (white) into piles as they move through their environment.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston4.jpg) <br>
-An AI-designed "parent" organism (C shape; red) beside stem cells that have been compressed into a ball (“offspring”; green).
+An AI-designed parent organism (C shape; red) beside stem cells that have been compressed into a ball (incipient offspring; green).
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston5.jpg) <br>
-Close up view of "offspring": stem cells compacted into spheres by AI-designed "parents".
+Close up view of offspring: stem cells compacted into spheres by AI-designed parents.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston6.jpg) <br>  
-A c-shaped parent built according to an AI-generated blueprint.
+A C-shaped parent built according to an AI-generated blueprint.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston7.jpg) <br>
-An AI-designed parent (c-shape) next to the default spherical shape.
+An AI-designed parent (C shape) next to the default spherical shape.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston8.jpg) <br> 
@@ -43,11 +43,11 @@ A ring shaped parent, built according to an AI-generated blueprint.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston9.jpg) <br> 
-An AI-designed "parent" organism (C shape) beside "offspring": stem cells that have been compressed into a ball.
+An AI-designed parent (C shape) beside incipient offspring: stem cells that have been compressed into a ball.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston10.jpg) <br>
-An AI-designed "parent" organism (C shape) beside "offspring": stem cells that have been compressed into a ball.
+An AI-designed parent (C shape) beside incipient offspring: stem cells that have been compressed into a ball.
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston11.jpg) <br>
@@ -78,20 +78,18 @@ A swarm of nine simulated frog-cell parents (pink) build piles out of simulated 
 One of the designs found by AI was a semitorus (a half donut, or C shape), which replicated more often than the default spheres. 
 <br><br>
 
-<p float="left">
-  <img src="https://krorgs.github.io/img/04A_s24_1070_F0_t0.png" width="100" />
-  <img src="https://krorgs.github.io/img/04B_s24_1070_F0.png" width="100" />
-  <img src="https://krorgs.github.io/img/04C_s24_1070_F1.png" width="100" />
-  <img src="https://krorgs.github.io/img/04D_s24_1070_F2.png" width="100" />
-</p>
+
+A ![image](https://krorgs.github.io/img/04A_s24_1070_F0_t0.png)  |  B ![image](https://krorgs.github.io/img/04B_s24_1070_F0.png)
+:-------------------------:|:-------------------------:
+C ![image](https://krorgs.github.io/img/04C_s24_1070_F1.png)  |  D ![image](https://krorgs.github.io/img/04D_s24_1070_F2.png)
 AI proposed a few variants of the semitorus. This shape, with its longer “arms”, resembles a piece of macaroni. A swarm of nine pink semitori parents are placed in a simulated dish amid a field of loose green adhesive stem cells (A). The parents swim around and push the loose adhesive cells together into piles (B). Then the parents and small piles are removed, and large piles are matured into swimming children (C) which are given a fresh field of adhesive cells to build piles (grandchildren). Grandchildren (D) then attempt to build great-grandchildren, and so on.
 <br><br>
 
 <p float="left">
-  <img src="https://krorgs.github.io/img/05D_circuit0_in_color.png" width="100" />
-  <img src="https://krorgs.github.io/img/05A_circuit0.png" width="100" />
-  <img src="https://krorgs.github.io/img/05B_openCircuit.png" width="100" />
-  <img src="https://krorgs.github.io/img/05C_closedCircuit.png" width="100" />
+  <img src="https://krorgs.github.io/img/05D_circuit0_in_color.png" width="24%" />
+  <img src="https://krorgs.github.io/img/05A_circuit0.png" width="24%" />
+  <img src="https://krorgs.github.io/img/05B_openCircuit.png" width="24%" />
+  <img src="https://krorgs.github.io/img/05C_closedCircuit.png" width="24%" />
 </p>
 (A) A swarm of self-replicating semitoroidal organisms (grey) was placed inside a partially-completed circuit (black). Three kinds of microelectronic components, that adhere permanently upon collision, were added to the simulation: light emitters, batteries, and wire. As a side effect of movement, organisms will randomly push together microelectronics modules present in the dish. If a light emitter connects by an unbroken circuit of wire to a battery, the light emitter switches on permanently (red in C). Dissociated stem cells (not pictured), if pushed into piles, develop into offspring (irregularly shaped gray masses) that assist in circuit building.
 <br><br>
