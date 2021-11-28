@@ -121,7 +121,7 @@ A dozen half-donuts.<br>
 [download](https://drive.google.com/file/d/1I3UtfnkWOfqDuohW8jo6LwOaZ-BPbMWc/view)
 <br><br>
 
-![image](https://krorgs.github.io/gifs/19_buildingLargerOffspring fast.gif) <br>
+![image](https://krorgs.github.io/gifs/19_buildingLargerOffspring_fast.gif) <br>
 Progressively larger offspring. In contrast to other known forms of biological reproduction, kinematic self replication allows for the opportunity to significantly enlarge and miniaturize offspring, each generation.<br>
 [youtube](https://youtu.be/avaIuUbkXYk) |
 [download](https://drive.google.com/file/d/1azKy5Vq4i7Gkk5_X1Z3rO1f8rKPJXGLS/view)
@@ -163,25 +163,25 @@ Exponential utility. Each branch represents replication; red branches denote cir
 [download](https://drive.google.com/file/d/1AMZaWtlmepfH1FWmEx6QF7-O8Cob1VTG/view)
 <br><br>
 
-![image](https://krorgs.github.io/gifs/26: t6 9 1101 trimmed fast.gif) <br>
+![image](https://krorgs.github.io/gifs/26_t6_9_1101_trimmed_fast.gif) <br>
 Evolved terrain. The algorithm was modified to evolve terrain shape rather than progenitor shape to amplify self replication. Terrain was shaped by the inclusion of reconfigurable walls (black) that, once positioned along the bottom surface of the simulated dish, constrain the stochastic movement of organisms along more predictable trajectories within predefined limits.<br>
 [youtube](https://youtu.be/eQ7tar0o-ZM) |
 [download](https://drive.google.com/file/d/1kNPKyYNbX3OxJmZmWjNTxxYj_bNcnA9C/view)
 <br><br>
 
-![image](https://krorgs.github.io/gifs/28: t3 9 1268 trimmed fast.gif) <br>
+![image](https://krorgs.github.io/gifs/28_t3_9_1268_trimmed_fast.gif) <br>
 Another evolved terrain.<br>
 [youtube](https://youtu.be/cRFb2KerBjY) |
 [download](https://drive.google.com/file/d/16F6Qcu8vzl75nTblxKyQddcmw6eWoYrR/view)
 <br><br>
 
-![image](https://krorgs.github.io/gifs/30: o99 9 33 trimmed fast fail.gif) <br>
+![image](https://krorgs.github.io/gifs/30_o99_9_33_trimmed_fast_fail.gif) <br>
 In a cluttered environment (black “boulders”), the wild type progenitors (spheroids) cannot move enough to self replicate. <br>
 [youtube](https://youtu.be/v_RTSzbdmj4 ) |
 [download](https://drive.google.com/file/d/1wzIh_Jn3Y5BP_62p6Ar8qlTQNVfOs_91/view )
 <br><br>
 
-![image](https://krorgs.github.io/gifs/31: o4 9 342 trimmed fast.gif) <br>
+![image](https://krorgs.github.io/gifs/31_o4_9_342_trimmed_fast.gif) <br>
 The algorithm not only can amplify self replication in a given environment but can also bestow this capability on swarms otherwise incapable of achieving it in adverse environments. The algorithm discovered progenitor shapes with ventral surfaces that elevated the simulated organisms above the clutter while maintaining frontal plane curvatures that facilitated pile making and the achieving of self replication.<br>
 [youtube](https://youtu.be/e66J8-CrWa4 ) |
 [download](https://drive.google.com/file/d/1GjH4VpOyUnPAPE997Pmn36ZW6OxUgSUQ/view )
