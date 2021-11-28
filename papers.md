@@ -1,7 +1,7 @@
 ## Papers
 
 
-#### **3. ...:**
+#### **3. Kinematically Replicating Organisms:**
 
 Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2021)  <br>
 "[Kinematic self-replication in reconfigurable organisms]()",  <br>
