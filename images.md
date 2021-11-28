@@ -78,18 +78,27 @@ A swarm of nine simulated frog-cell parents (pink) build piles out of simulated 
 One of the designs found by AI was a semitorus (a half donut, or C shape), which replicated more often than the default spheres. 
 <br><br>
 
-
-A ![image](https://krorgs.github.io/img/04A_s24_1070_F0_t0.png)  |  B ![image](https://krorgs.github.io/img/04B_s24_1070_F0.png)
-:-------------------------:|:-------------------------:
-C ![image](https://krorgs.github.io/img/04C_s24_1070_F1.png)  |  D ![image](https://krorgs.github.io/img/04D_s24_1070_F2.png)
-AI proposed a few variants of the semitorus. This shape, with its longer “arms”, resembles a piece of macaroni. A swarm of nine pink semitori parents are placed in a simulated dish amid a field of loose green adhesive stem cells (A). The parents swim around and push the loose adhesive cells together into piles (B). Then the parents and small piles are removed, and large piles are matured into swimming children (C) which are given a fresh field of adhesive cells to build piles (grandchildren). Grandchildren (D) then attempt to build great-grandchildren, and so on.
+<p float="middle">
+  A<img src="https://krorgs.github.io/img/04A_s24_1070_F0_t0.png" width="23%" />
+  B<img src="https://krorgs.github.io/img/04B_s24_1070_F0.png" width="23%" />
+  C<img src="https://krorgs.github.io/img/04C_s24_1070_F1.png" width="23%" />
+  D<img src="https://krorgs.github.io/img/04D_s24_1070_F2.png" width="23%" />
+</p>
+AI proposed a few variants of the semitorus. This shape, with its longer “arms”, resembles a piece of macaroni. A swarm of nine pink semitori parents are placed in a simulated dish amid a field of loose green adhesive stem cells (A). The parents swim around and push the loose adhesive cells together into piles (B). Then the parents and small piles are removed, and large piles are matured into swimming children (C) which are given a fresh field of adhesive cells to build piles (grandchildren). Grandchildren (D) then attempt to build great-grandchildren, and so on.<br>
+Download: [A](https://krorgs.github.io/img/04A_s24_1070_F0_t0.png) |
+[B](https://krorgs.github.io/img/04B_s24_1070_F0.png) |
+[C](https://krorgs.github.io/img/04C_s24_1070_F1.png) |
+[inDcolor](https://krorgs.github.io/img/04D_s24_1070_F2.png)
 <br><br>
 
-<p float="left">
-  <img src="https://krorgs.github.io/img/05D_circuit0_in_color.png" width="24%" />
-  <img src="https://krorgs.github.io/img/05A_circuit0.png" width="24%" />
-  <img src="https://krorgs.github.io/img/05B_openCircuit.png" width="24%" />
-  <img src="https://krorgs.github.io/img/05C_closedCircuit.png" width="24%" />
+<p float="middle">
+  A<img src="https://krorgs.github.io/img/05A_circuit0.png" width="31%" />
+  B<img src="https://krorgs.github.io/img/05B_openCircuit.png" width="31%" />
+  C<img src="https://krorgs.github.io/img/05C_closedCircuit.png" width="31%" />
 </p>
-(A) A swarm of self-replicating semitoroidal organisms (grey) was placed inside a partially-completed circuit (black). Three kinds of microelectronic components, that adhere permanently upon collision, were added to the simulation: light emitters, batteries, and wire. As a side effect of movement, organisms will randomly push together microelectronics modules present in the dish. If a light emitter connects by an unbroken circuit of wire to a battery, the light emitter switches on permanently (red in C). Dissociated stem cells (not pictured), if pushed into piles, develop into offspring (irregularly shaped gray masses) that assist in circuit building.
+(A) A swarm of self-replicating semitoroidal organisms (grey) was placed inside a partially-completed circuit (black). Three kinds of microelectronic components, that adhere permanently upon collision, were added to the simulation: light emitters, batteries, and wire. As a side effect of movement, organisms will randomly push together microelectronics modules present in the dish. If a light emitter connects by an unbroken circuit of wire to a battery, the light emitter switches on permanently (red in C). Dissociated stem cells (not pictured), if pushed into piles, develop into offspring (irregularly shaped gray masses) that assist in circuit building.<br>
+Download: [circuit](https://krorgs.github.io/img/05A_circuit0.png) |
+[open](https://krorgs.github.io/img/05B_openCircuit.png) |
+[closed](https://krorgs.github.io/img/05C_closedCircuit.png) |
+[in color](https://krorgs.github.io/img/05D_circuit0_in_color.png)
 <br><br>
