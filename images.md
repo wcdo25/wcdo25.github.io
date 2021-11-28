@@ -6,7 +6,7 @@ Please credit: "Douglas Blackiston and Sam Kriegman".
 <br><br>
 
 ![image](https://krorgs.github.io/img/01_RunChampsCool.png) <br>
-Forty-nine AI-generated "parent" shapes that replicate more often than the default spherical shape.<br>
+Forty-nine AI-generated parent shapes that replicate more often than the default spherical shape.<br>
 [[pdf](https://drive.google.com/file/d/1cOnlnJp5ahOWpYm2fjKaDZmdStLO0FA3/view)]
 <br><br>
 
