@@ -7,8 +7,8 @@ The source code necessary for evolving the KROs reported in our paper can be fou
 
 The instructions for actually building KROs are also entirely open-source in the form of our [??? paper]() and its [supplementary materials]().
 
-Source code and build instructions are distributed under an *Attribution-NonCommercial* [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
-
+Source code and build instructions are 
+licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ### **Start here:**
 
