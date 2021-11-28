@@ -70,10 +70,9 @@ C-shaped parent rotating a large ball of stem cells (incipient offspring).<br>
 
 ![image](https://krorgs.github.io/gifs/BlackistonV11.gif) <br>
 C-shaped parents building their offspring.<br>
-<!-- [youtube](asdf) | -->
-[download](https://drive.google.com/file/d/100jnsHvoRb-dFbk1E01bxDQDxMsSjTeO/view)
+[youtube](https://youtu.be/mumbbnDRvxw) |
+[download](https://drive.google.com/file/d/1bl6b0qLPVXKt9pLQeKukiC8sngVY0UZF/view)
 <br><br>
-
 
 ![image](https://krorgs.github.io/gifs/01_99_9_9008_fail_fast.gif) <br>
 A computer simulation was created in which a swarm of nine simulated frog-cell parents (pink) build piles out of simulated adhesive frog stem cells (green) that are strewn across the bottom of a simulated petri dish. The default body shape of parents (and their children) is a sphere: this is what the stem cells "want" to make (due to surface tension) when brought together. The default spherical parents (pink) often fail to self replicate in simulation.<br>
