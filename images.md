@@ -58,7 +58,7 @@ KROs swim using cilia: small hair-like structures that cover their surface.
 KROs swim using cilia: small hair-like structures that cover their surface.
 <br><br>
 
-![image](https://krorgs.github.io/img/Blackiston13.jpg) <br>
+<!-- ![image](https://krorgs.github.io/img/Blackiston13.jpg) <br>
 The building materials made available to KROs: frog stem cells.
 <br><br>
 
@@ -68,7 +68,7 @@ AI-designed KRO parents.
 
 ![image](https://krorgs.github.io/img/Blackiston15.jpg) <br>
 Offspring built by KRO parents.
-<br><br>
+<br><br> -->
 
 ![image](https://krorgs.github.io/img/02_spheres.png) <br>
 A swarm of nine simulated frog-cell parents (pink) build piles out of simulated adhesive frog stem cells (green) that are strewn across the bottom of a simulated petri dish. The default body shape of parents (and their children) is a sphere: this is what the stem cells “want” to make (due to surface tension) when brought together.
