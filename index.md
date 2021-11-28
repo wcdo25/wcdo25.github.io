@@ -11,10 +11,9 @@ Watch our [annotated summary video](https://youtu.be/-tKlIZXHiOo).
 
 Read our [press release](https://drive.google.com/file/d/1Qz-1XL4Mnmh3g9vfZnYLacFF03JMBnvi/view).
 
-Watch, download, and use our [images](/images) and [videos](/videos) with atribution, they are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+Watch, download, and use our [images](/images) and [videos](/videos) with atribution (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
 
-[Source code](/code) and build instructions are 
-licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Read, fork, and use our [source code](/code) and build instructions (licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
 
-Still have questions? [Email the team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+For questions, comments, and press inquiries, please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
 
