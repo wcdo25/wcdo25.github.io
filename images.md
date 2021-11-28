@@ -1,9 +1,9 @@
 ## Images
 
-All images are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/). 
+All images are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/).
 
-For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
-
+Please credit: "Douglas Blackiston and Sam Kriegman".
+<br><br>
 
 ![image](https://krorgs.github.io/img/01_RunChampsCool.png) <br>
 Forty-nine AI-generated "parent" shapes that replicate more often than the default spherical shape.<br>
