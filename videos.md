@@ -109,7 +109,7 @@ Variations on the C shape proposed by AI included a design with a long narrow mo
 [download](https://drive.google.com/file/d/1PcWMtQGTXWFjP7VQeW4MKRKFuO1XoG7I/view)
 <br><br>
 
-![image](https://krorgs.github.io/gifs/17_c26_9_16233_trimmed_fast.gif) <br>
+![image](https://krorgs.github.io/gifs/17_c26_9_16233_trimmed_fast_.gif) <br>
 Another C-shape variant proposed by AI resembled a half donut.<br>
 [youtube](https://youtu.be/9spUsIWCkG4) |
 [download](https://drive.google.com/file/d/1jW78urjUHsxZYDRaNbqiikNYwA0W8WkJ/view)
@@ -175,7 +175,8 @@ Another evolved terrain.<br>
 [download](https://drive.google.com/file/d/16F6Qcu8vzl75nTblxKyQddcmw6eWoYrR/view)
 <br><br>
 
-![image](https://krorgs.github.io/gifs/30_o99_9_33_trimmed_fast_fail.gif) <br>
+
+![image](https://krorgs.github.io/gifs/30_o99_9_33_trimmed_fast.gif) <br>
 In a cluttered environment (black “boulders”), the wild type progenitors (spheroids) cannot move enough to self replicate. <br>
 [youtube](https://youtu.be/v_RTSzbdmj4 ) |
 [download](https://drive.google.com/file/d/1wzIh_Jn3Y5BP_62p6Ar8qlTQNVfOs_91/view )
