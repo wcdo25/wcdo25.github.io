@@ -3,7 +3,8 @@
 All videos are released under a [Creative Commons license](http://creativecommons.org/licenses/by/4.0/). 
 
 Please credit: "Douglas Blackiston and Sam Kriegman".
-<!-- Below each gif are links to the full video. -->
+
+Watch the full videos on youtube or download it using the links below each gif preview.
 <br><br>
 
 ![image](https://krorgs.github.io/gifs/BlackistonV1.gif) <br>
