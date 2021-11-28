@@ -74,10 +74,6 @@ Offspring built by KRO parents.
 A swarm of nine simulated frog-cell parents (pink) build piles out of simulated adhesive frog stem cells (green) that are strewn across the bottom of a simulated petri dish. The default body shape of parents (and their children) is a sphere: this is what the stem cells “want” to make (due to surface tension) when brought together.
 <br><br>
 
-![image](https://krorgs.github.io/img/03_roundingPile.png) <br>
-One of the designs found by AI was a semitorus (a half donut, or C shape), which replicated more often than the default spheres. 
-<br><br>
-
 <!-- <p float="middle">
   A<img src="https://krorgs.github.io/img/04A_s24_1070_F0_t0.png" width="23%" />
   B<img src="https://krorgs.github.io/img/04B_s24_1070_F0.png" width="23%" />
@@ -90,6 +86,10 @@ Download: [gen0](https://krorgs.github.io/img/04A_s24_1070_F0_t0.png) |
 [gen0](https://krorgs.github.io/img/04B_s24_1070_F0.png) |
 [gen1](https://krorgs.github.io/img/04C_s24_1070_F1.png) |
 [gen2](https://krorgs.github.io/img/04D_s24_1070_F2.png)
+<br><br>
+
+![image](https://krorgs.github.io/img/03_roundingPile.png) <br>
+One of the designs found by AI was a semitorus (a half donut, or C shape), which replicated more often than the default spheres. 
 <br><br>
 
 <!-- <p float="middle">
