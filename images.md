@@ -3,11 +3,11 @@
 All images are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 Please credit: "Douglas Blackiston and Sam Kriegman".
-<br><br>
+<br>
 
 ![image](https://krorgs.github.io/img/01_RunChampsCool.png) <br>
 Forty-nine AI-generated parent shapes that replicate more often than the default spherical shape.<br>
-[[pdf](https://drive.google.com/file/d/1cOnlnJp5ahOWpYm2fjKaDZmdStLO0FA3/view)]
+download vector graphics: [pdf](https://drive.google.com/file/d/1cOnlnJp5ahOWpYm2fjKaDZmdStLO0FA3/view) | [svg](https://drive.google.com/file/d/1gDDgSInBkP2nZvggl5L8duWrst7yvjL-/view)
 <br><br>
 
 ![image](https://krorgs.github.io/img/Blackiston1.jpg) <br>
