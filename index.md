@@ -15,5 +15,8 @@ Watch, download, and use our [images](/images) and [videos](/videos) with atribu
 
 Read, fork, and use our [source code](/code) and build instructions (licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
 
-For questions, comments, and press inquiries, please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+Learn about [the team](/team).
+
+For questions, comments, and [press](/press) inquiries, please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+
 
