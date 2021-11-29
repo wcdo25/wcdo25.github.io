@@ -7,7 +7,10 @@ Almost all organisms replicate by growing and then shedding offspring. Some mole
 
 ### **The paper in a nutshell:**
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-tKlIZXHiOo" frameborder="0" allowfullscreen></iframe>
-<!-- Watch our [annotated summary video](https://youtu.be/-tKlIZXHiOo). -->
+
+### Press conference
+
+Wed Dec 1, 12-1pm EST. Register [here](https://harvard.zoom.us/webinar/register/WN_0EfTB6z4RJuAP-l7zgNZWQ).
 
 ### **More:**
 
