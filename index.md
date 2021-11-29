@@ -1,5 +1,11 @@
 ## About
 
+Kriegman, S.\*, Blackiston, D.\*, Levin, M., Bongard, J. (2021)  <br>
+"[Kinematic self-replication in reconfigurable organisms](https://drive.google.com/file/d/1Q3eGk2g0Tk5DOXk1WnQuxjMh7qdi2baA/view)",  <br>
+_Proceedings of the National Academy of Sciences (PNAS)_, vol. 118 <!-- no. ?, pp. ??-??. -->
+<br>
+
+
 ![image](https://krorgs.github.io/gifs/X3summary.gif)<br>
 [youtube](https://youtu.be/zuo2DP72vKQ) |
 [download](https://drive.google.com/file/d/1mQvgId9WKX5cfZM8jqmWDsyFNG9usZDL/view)<br>
