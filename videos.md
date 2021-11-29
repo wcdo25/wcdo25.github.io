@@ -5,7 +5,7 @@ licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 Please credit: "Douglas Blackiston and Sam Kriegman".
 
-Watch the full videos on youtube or download it using the links below each gif preview.
+Watch the full videos on youtube or download them using the links below each gif preview.
 <br><br>
 
 ![image](https://krorgs.github.io/gifs/BlackistonV1.gif) <br>
