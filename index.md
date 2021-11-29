@@ -9,16 +9,20 @@ Almost all organisms replicate by growing and then shedding offspring. Some mole
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-tKlIZXHiOo" frameborder="0" allowfullscreen></iframe>
 <!-- Watch our [annotated summary video](https://youtu.be/-tKlIZXHiOo). -->
 
-### More info:
+### More:
 
-Read the [press release](https://drive.google.com/file/d/1Qz-1XL4Mnmh3g9vfZnYLacFF03JMBnvi/view).
+Read the [paper](/papers) and [press release](https://drive.google.com/file/d/1Qz-1XL4Mnmh3g9vfZnYLacFF03JMBnvi/view).
 
-View, download, and use our [images](/images) and [videos](/videos) with atribution (licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
+View, download, and use our [images](/images) and [videos](/videos) with atribution ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
 
-Run, fork and modify our [source code](/code) and build instructions (licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
+Run, fork and modify our [source code](/code) and build instructions for noncommercial purposes ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)).
 
 Learn about [the team](/team).
 
-Questions? Comments? Press inquiries? Please [**email the whole team**](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+### Still have questions? 
+
+Please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+
+Each of us made unique contributions to the paper, and thus have unique perspectives on the work.
 
 <br><br><br>
