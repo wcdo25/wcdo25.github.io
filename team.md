@@ -49,9 +49,9 @@ At Tufts, Feb 2020.
 
 
 <img src="https://skriegman.github.io/img/sam+doug.jpeg">
-Blackiston (left) and Kriegman at Tufts. Photographer: M. Scott Brauer.
+Blackiston (left) and Kriegman at Tufts.
 <br>
-At Tufts, Sept 2021.
+Sept 2021. Photographer: M. Scott Brauer.
 <br><br><br>
 
 
