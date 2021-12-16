@@ -47,3 +47,11 @@ From left to right: Josh Bongard, Michael Levin, Douglas Blackiston, Sam Kriegma
 At Tufts, Feb 2020.
 <br><br><br>
 
+
+<img src="https://skriegman.github.io/img/sam+doug.jpeg">
+Blackiston (left) and Kriegman at Tufts. Photographer: M. Scott Brauer.
+<br>
+At Tufts, Sept 2021.
+<br><br><br>
+
+
