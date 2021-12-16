@@ -20,7 +20,7 @@ Wed Dec 1, 12-1pm EST. Register [here](https://harvard.zoom.us/webinar/register/
 
 ### **More:**
 
-Read the [paper](/papers) and [press release](https://drive.google.com/file/d/1Qz-1XL4Mnmh3g9vfZnYLacFF03JMBnvi/view).
+Read the [paper](/papers) and [press release](https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce).
 
 View, download, and use our [images](/images) and [videos](/videos) with atribution ([CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)).
 
