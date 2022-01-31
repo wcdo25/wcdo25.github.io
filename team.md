@@ -49,6 +49,7 @@ At Tufts, Feb 2020.
 
 
 <img src="https://skriegman.github.io/img/sam+doug.jpeg">
+<!-- Sam Kriegman, Xenobots, Doug Blackiston -->
 Blackiston (left) and Kriegman at Tufts.
 <br>
 Sept 2021. Photographer: M. Scott Brauer.
