@@ -87,6 +87,9 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 ## BBC Future
 [Why we are living in an era of unnatural selection](https://www.bbc.com/future/article/20220125-how-humans-are-changing-evolution)
 
+## The Week
+[Pac-man made from frog cells may solve plastic pollution](https://www.theweek.co.uk/news/world-news/954982/pac-man-made-from-frog-cells-may-solve-plastic-pollution)
+
 ## Forbes
 [AI Just Designed The World’s First Living Robot That Can Make Babies](https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/)
 <!-- <br>
@@ -104,6 +107,11 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 
 ## New York Post
 [World’s first living robots can now reproduce, scientists say](https://nypost.com/2021/11/30/worlds-first-living-robots-can-now-reproduce-scientists-say/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Nature
+[Daily briefing: Multicellular living robots build their own offspring](https://www.nature.com/articles/d41586-021-03595-z)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
