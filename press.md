@@ -89,6 +89,11 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 <!-- <br>
 [[PDF](driveLink)] --> 
 
+## New York Post
+[World’s first living robots can now reproduce, scientists say](https://nypost.com/2021/11/30/worlds-first-living-robots-can-now-reproduce-scientists-say/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
 ## New Scientist
 [Living robots made from frog cells can replicate themselves in a dish](https://www.newscientist.com/article/2299252-living-robots-made-from-frog-cells-can-replicate-themselves-in-a-dish/)
 <!-- <br>
@@ -100,11 +105,6 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 [[PDF](driveLink)] --> 
 
 [Tiny living machines called xenobots can create copies of themselves](https://www.sciencenews.org/article/tiny-living-machines-xenobots-replicate-copies-frog-cells)
-<!-- <br>
-[[PDF](driveLink)] --> 
-
-## New York Post
-[World’s first living robots can now reproduce, scientists say](https://nypost.com/2021/11/30/worlds-first-living-robots-can-now-reproduce-scientists-say/)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
@@ -128,13 +128,13 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 <!-- <br>
 [[PDF](driveLink)] --> 
 
-## Live Science
-[Pac-Man-shaped blobs become world's first self-replicating biological robots](https://www.livescience.com/self-replicating-biological-robots)
+## The Scientist
+['Xenobot' Living Robots Can Reproduce](https://www.the-scientist.com/news-opinion/xenobot-living-robots-can-reproduce-69477)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
-## The Scientist
-['Xenobot' Living Robots Can Reproduce](https://www.the-scientist.com/news-opinion/xenobot-living-robots-can-reproduce-69477)
+## Live Science
+[Pac-Man-shaped blobs become world's first self-replicating biological robots](https://www.livescience.com/self-replicating-biological-robots)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
