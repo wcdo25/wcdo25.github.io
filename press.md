@@ -79,6 +79,11 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 <!-- <br>
 [[PDF](driveLink)] --> 
 
+## BBC Science Focus
+[Living robots that are capable of self-replicating created in US lab](https://www.sciencefocus.com/news/living-robots-that-are-capable-of-self-replicating-created-in-us-lab/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
 ## Forbes
 [AI Just Designed The World’s First Living Robot That Can Make Babies](https://www.forbes.com/sites/andreamorris/2021/11/29/ai-just-designed-the-worlds-first-robot-organism-that-can-make-babies/)
 <!-- <br>
