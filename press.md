@@ -79,11 +79,69 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 <!-- <br>
 [[PDF](driveLink)] --> 
 
+## Business Insider
+[Researchers behind the world's first living robot have found a way to make it reproduce](https://www.businessinsider.com/researchers-working-on-worlds-first-living-robot-reproduce-itself-2021-11)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
 ## The Onion
 [World's First Living Robots Can Now Reproduce, Say Scientists](https://www.theonion.com/world-s-first-living-robots-can-now-reproduce-say-scie-1848145392)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
+## New Scientist
+[Living robots made from frog cells can replicate themselves in a dish](https://www.newscientist.com/article/2299252-living-robots-made-from-frog-cells-can-replicate-themselves-in-a-dish/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Science News
+[Here are our favorite cool, funny and bizarre science stories of 2021](https://www.sciencenews.org/article/science-stories-2021-favorite-cool-funny-bizarre)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+[Tiny living machines called xenobots can create copies of themselves](https://www.sciencenews.org/article/tiny-living-machines-xenobots-replicate-copies-frog-cells)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## New York Post
+[World’s first living robots can now reproduce, scientists say](https://nypost.com/2021/11/30/worlds-first-living-robots-can-now-reproduce-scientists-say/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Fast Company
+['Living robots' can self-replicate, furthering hope for regenerative medicine](https://www.fastcompany.com/90701491/the-worlds-first-living-robots-can-now-self-replicate-furthering-hope-for-regenerative-medicine)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Smithsonian Magazine
+[Scientists Unveiled the World's First Living Robots... Now, They Can Reproduce](https://www.smithsonianmag.com/smart-news/scientists-unveiled-the-worlds-first-living-robots-last-year-now-they-can-now-reproduce-180979150/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## People Magazine
+[Xenobots, the World's First Living Robots, Are Now Capable of Reproducing](https://people.com/human-interest/xenobots-worlds-first-living-robots-now-capable-of-reproducing/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Popular Science
+[Robots built from frog cells have unlocked the ability to self-replicate](https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Live Science
+[Pac-Man-shaped blobs become world's first self-replicating biological robots](https://www.livescience.com/self-replicating-biological-robots)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## The Scientist
+['Xenobot' Living Robots Can Reproduce](https://www.the-scientist.com/news-opinion/xenobot-living-robots-can-reproduce-69477)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Newsweek
+[Mesmerizing Video Shows How Tiny 'Living Robot' Xenobot Cells Reproduce](https://www.newsweek.com/video-xenobot-living-robots-reproduce-cells-1654375)
+<!-- <br>
+[[PDF](driveLink)] --> 
 
 <!-- ## Name
 [title](link)
@@ -93,50 +151,3 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 
 <br><br><br>
 
-
-
-<!-- Dec, 2021       & ``\href{https://www.sciencenews.org/article/science-stories-2021-favorite-cool-funny-bizarre}{\color{blue}Here are our favorite cool, funny and bizarre science stories of 2021}''. 
-			  \textit{Science News} \\
-
-
-Nov, 2021       & ``\href{https://nypost.com/2021/11/30/worlds-first-living-robots-can-now-reproduce-scientists-say/}{\color{blue}World’s first living robots can now reproduce, scientists say}''. 
-			  \textit{New York Post} \\
-
-			  
-Dec, 2021       & ``\href{https://www.voanews.com/a/xenobots-us-scientists-create-tiny-living-robots-that-can-reproduce/6341187.html}{\color{blue}Xenobots -- US Scientists Create Tiny Living Robots That Can Reproduce}''. 
-			  \textit{Voice of America} \\
-
-Dec, 2021		& ``\href{https://www.wcax.com/2021/12/02/uvm-researchers-make-strides-living-robot-reproduction/}{\color{blue} UVM researchers make strides in `living robot' reproduction}''. 
-			  \textit{WCAX (CBS 3)} \\
-
-Dec, 2021       & ``\href{https://www.sciencenews.org/article/tiny-living-machines-xenobots-replicate-copies-frog-cells}{\color{blue}Tiny living machines called xenobots can create copies of themselves}''. 
-			  \textit{Science News} \\
-
-Dec, 2021       & ``\href{https://www.livescience.com/self-replicating-biological-robots}{\color{blue}Pac-Man-shaped blobs become world's first self-replicating biological robots}''. 
-			  \textit{Live Science} \\
-			  
-Dec, 2021       & ``\href{https://www.the-scientist.com/news-opinion/xenobot-living-robots-can-reproduce-69477}{\color{blue}`Xenobot' Living Robots Can Reproduce}''. 
-			  \textit{The Scientist} \\
-			  
-Dec, 2021       & ``\href{https://www.smithsonianmag.com/smart-news/scientists-unveiled-the-worlds-first-living-robots-last-year-now-they-can-now-reproduce-180979150/}{\color{blue}Scientists Unveiled the World's First Living Robots... Now, They Can Reproduce}''. 
-			  \textit{Smithsonian Magazine} \\
-			  
-			 
-			  
-Nov, 2021       & ``\href{https://www.businessinsider.com/researchers-working-on-worlds-first-living-robot-reproduce-itself-2021-11}{\color{blue}Researchers behind the world's first living robot have found a way to make it reproduce}''. 
-			  \textit{Business Insider} \\
-
-Nov, 2021       & ``\href{https://people.com/human-interest/xenobots-worlds-first-living-robots-now-capable-of-reproducing/}{\color{blue}Xenobots, the World's First Living Robots, Are Now Capable of Reproducing}''. 
-			  \textit{People Magazine} \\
-
-Nov, 2021       & ``\href{https://www.newsweek.com/video-xenobot-living-robots-reproduce-cells-1654375}{\color{blue}Mesmerizing Video Shows How Tiny `Living Robot' Xenobot Cells Reproduce}''. 
-			  \textit{Newsweek} \\
-
-Nov, 2021       & ``\href{https://www.fastcompany.com/90701491/the-worlds-first-living-robots-can-now-self-replicate-furthering-hope-for-regenerative-medicine}{\color{blue}`Living robots' can self-replicate, furthering hope for regenerative medicine}''. 
-			  \textit{Fast Company} \\
-
-Nov, 2021       & ``\href{https://www.newscientist.com/article/2299252-living-robots-made-from-frog-cells-can-replicate-themselves-in-a-dish/}{\color{blue}Living robots made from frog cells can replicate themselves in a dish}''. 
-			  \textit{New Scientist} \\
-		  
-Nov, 2021       & ``\href{https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/}{\color{blue}Robots built from frog cells have unlocked the ability to self-replicate}''. 
-			  \textit{Popular Science} \\ -->
