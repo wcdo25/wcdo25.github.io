@@ -23,8 +23,12 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 ## NPR Weekend Edition
 <iframe src="https://www.npr.org/player/embed/1061600383/1061600384" width="100%" height="290" frameborder="0" scrolling="no" title="NPR embedded audio player"></iframe>
 
+
 ## Science Friday
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1171409347&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/scifri" title="SciFri" target="_blank" style="color: #cccccc; text-decoration: none;">SciFri</a> · <a href="https://soundcloud.com/scifri/diving-into-the-strange-world-of-xenobots" title="Diving Into The Strange World Of Xenobots" target="_blank" style="color: #cccccc; text-decoration: none;">Diving Into The Strange World Of Xenobots</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1223479870&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer Designed Organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer Designed Organisms</a> · <a href="https://soundcloud.com/skriegman/swimming-replicating-living-machines" title="Swimming, Replicating, Living Machines" target="_blank" style="color: #cccccc; text-decoration: none;">Swimming, Replicating, Living Machines</a></div>
+
+<!-- ## Science Friday
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1171409347&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/scifri" title="SciFri" target="_blank" style="color: #cccccc; text-decoration: none;">SciFri</a> · <a href="https://soundcloud.com/scifri/diving-into-the-strange-world-of-xenobots" title="Diving Into The Strange World Of Xenobots" target="_blank" style="color: #cccccc; text-decoration: none;">Diving Into The Strange World Of Xenobots</a></div> -->
 
 ## BBC Science in Action
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1206697669&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/skriegman" title="Computer Designed Organisms" target="_blank" style="color: #cccccc; text-decoration: none;">Computer Designed Organisms</a> · <a href="https://soundcloud.com/skriegman/bbc-science-in-action-self-replicating-biobots" title="BBC Science in action: &quot;self-replicating biobots&quot; (w/ Sam Kriegman &amp; Mike Levin)" target="_blank" style="color: #cccccc; text-decoration: none;">BBC Science in action: &quot;self-replicating biobots&quot; (w/ Sam Kriegman &amp; Mike Levin)</a></div>
@@ -136,6 +140,11 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 
 ## Smithsonian Magazine
 [Scientists Unveiled the World's First Living Robots... Now, They Can Reproduce](https://www.smithsonianmag.com/smart-news/scientists-unveiled-the-worlds-first-living-robots-last-year-now-they-can-now-reproduce-180979150/)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
+## Nautilus Magazine
+[The Uncanny Valley of Xenobots](https://nautil.us/the-uncanny-valley-of-xenobots-14159/)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
