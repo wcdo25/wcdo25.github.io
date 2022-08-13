@@ -30,7 +30,7 @@ Learn about [the team](/team).
 
 ### **Still have questions?** 
 
-Please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+Please [email the whole team](mailto:sam.kriegman@northwestern.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
 
 Each of us made unique contributions to the paper, and thus have unique perspectives on the work.
 
