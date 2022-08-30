@@ -56,7 +56,7 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 [[PDF](driveLink)]-->
 
 ## Aeon
-[What on earth is a xenobot?]([https://www.theguardian.com/science/2021/nov/29/amazing-science-researchers-find-xenobots-can-give-rise-to-offspring](https://aeon.co/essays/how-xenobots-reshape-our-understanding-of-genetics))
+[What on earth is a xenobot?](https://aeon.co/essays/how-xenobots-reshape-our-understanding-of-genetics)
 <!-- <br>
 [[PDF](driveLink)]-->
 
