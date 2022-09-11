@@ -154,6 +154,11 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 <!-- <br>
 [[PDF](driveLink)] --> 
 
+## Dictionary.com
+[Xenobot](https://www.dictionary.com/browse/xenobot)
+<!-- <br>
+[[PDF](driveLink)]-->
+
 ## Monster Children
 [Rise of The Xenobots](https://www.monsterchildren.com/rise-of-the-xenobots/)
 <!-- <br>
