@@ -120,6 +120,11 @@ For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.ed
 <!-- <br>
 [[PDF](driveLink)] --> 
 
+## Chicago Tribune
+[100 years of robots: How technology — and our lives — have changed](https://www.chicagotribune.com/featured/sns-ws-robots-over-the-years-20211215-mrnrynn6bvar7dhutqohmraogi-photogallery.html)
+<!-- <br>
+[[PDF](driveLink)] --> 
+
 ## Nature
 [Daily briefing: Multicellular living robots build their own offspring](https://www.nature.com/articles/d41586-021-03595-z)
 <!-- <br>
