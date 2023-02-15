@@ -1,6 +1,6 @@
 ## Press
 
-For press inquiries, please [email the whole team](mailto:skriegman@g.harvard.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
+For press inquiries, please [email the whole team](mailto:skriegman@northwestern.edu,Douglas.Blackiston@tufts.edu,Michael.Levin@tufts.edu,josh.bongard@uvm.edu).
 
 <br>
 
