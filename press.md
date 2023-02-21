@@ -91,6 +91,8 @@ For press inquiries, please [email the whole team](mailto:skriegman@northwestern
 
 ## BBC Science Focus
 [Living robots that are capable of self-replicating created in US lab](https://www.sciencefocus.com/news/living-robots-that-are-capable-of-self-replicating-created-in-us-lab/)
+<br>
+[Here come the xenobots](https://drive.google.com/file/d/1C7p_c843ZH70gWA5mAy5paNdXijfKAuq/view)
 <!-- <br>
 [[PDF](driveLink)] --> 
 
