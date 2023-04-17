@@ -179,7 +179,9 @@ For press inquiries, please [email the whole team](mailto:skriegman@northwestern
 
 ## Popular Science
 [Robots built from frog cells have unlocked the ability to self-replicate](https://www.popsci.com/science/xenobots-synthetic-life-form-reproduce/)
-<br>
+<!-- <br>
+[[PDF](driveLink)] --> 
+
 [Meet xenobots, tiny machines made out of living parts](https://www.popsci.com/technology/xenobots/)
 <!-- <br>
 [[PDF](driveLink)] --> 
