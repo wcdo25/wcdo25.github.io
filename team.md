@@ -19,7 +19,9 @@ or they may be used as scientific tools to understand how animals evolve, grow, 
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/DougBlackiston" target="_blank"><i class="fab fa-twitter icon" title="tweet doug"></i></a>
 
-**Douglas Blackiston** is a Senior Scientist in the Allen Discovery Center at Tufts University where his research program has the overarching goal of understanding tissue plasticity --- the response of cell populations to alterations in patterning, local environment, and signaling from neighboring tissues.
+**Douglas Blackiston** 
+is a Principal Scientist in the Allen Discovery Center at Tufts University and Visiting Scholar in the Wyss Institute at Harvard University.
+His research program has the overarching goal of understanding tissue plasticity --- the response of cell populations to alterations in patterning, local environment, and signaling from neighboring tissues.
 His work encompasses many diverse questions and models, from the ability of memory to survive metamorphosis in moths and butterflies, to the capacity of transplanted eyes to restore vision in blind vertebrates.
 
 <br><br><br>
