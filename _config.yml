@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: KROs
-description: K R Organisms
+title: wcdo2025
+description: 2025 Workshop on Computationallly Designed Organisms
 plugins:
   - jekyll-relative-links
 relative_links:
