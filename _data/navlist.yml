@@ -2,4 +2,12 @@ docs:
 
 - pagetitle: About
   url: /
-  
+
+- pagetitle: Schedule
+  url: /
+
+- pagetitle: Attendees
+  url: /
+
+- pagetitle: Press/Media
+  url: /
