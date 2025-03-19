@@ -3,21 +3,3 @@ docs:
 - pagetitle: About
   url: /
   
-- pagetitle: Press
-  url: /press
-  
-- pagetitle: Videos
-  url: /videos
-  
-- pagetitle: Images
-  url: /images
-  
-- pagetitle: Papers
-  url: /papers 
-  
-- pagetitle: Code
-  url: /code
-  
-- pagetitle: Team
-  url: /team 
-  
