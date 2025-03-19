@@ -6,6 +6,9 @@ docs:
 - pagetitle: Schedule
   url: /
 
+- pagetitle: Location
+  url: /
+
 - pagetitle: Attendees
   url: /
 
